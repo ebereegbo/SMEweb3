@@ -17,6 +17,19 @@
 
 
 /* Style Section for Divine Chinedu */
+.div7{
+background-image:url(./img_sally/sally_7.jpg);
+background-size:cover;
+    background-position:center;
+    height:100vh;
+    margin:0;
+}
+.div8{
+    background-image:url(./img_sally/sally_8);
+    background-size:cover;
+    background-position:center,
+    height:100vh;
+}
 
 
 
