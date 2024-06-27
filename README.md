@@ -1,4 +1,4 @@
-vThis is Web3 Group A Task 2
+This is Web3 Group A Task 2
 
 Please endeavor to carry out the specified area of the project assigned to you and also ensure to collaborate with others.
 
