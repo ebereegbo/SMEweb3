@@ -76,5 +76,17 @@
     }
 
 /* Style Section for Emeka Ibe */
+.div7{
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 25px;
+    background-color: blue;
+    border-top: 30px red solid;
+    color: white;
+}
 
+.div8{
+    width: 100%;
+    border-bottom: red 3px solid;
+}
 
